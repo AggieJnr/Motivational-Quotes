@@ -1,27 +1,42 @@
 # QuotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+## Author
 
-## Development server
+Owiti-Charles
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This is an Agular CLI application that displays quotes, allow the user to input new quotes, upvote , downvote and delete the quotes. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live Page 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* git clone `https://github.com/AggieJnr/QUOTES-APP.git`
 
-## Further help
+* cd Quotes-app
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* code . or atom . based on the text editor you have.
+
+## Technologies Used
+
+* HTML5
+* CSS](https://github.com/topics/css3)
+* AngulerCLI]
+* Bootstrap
+
+## Known Bugs
+* Highlight directive property does not work properly
+
+## Contact Information 
+
+For any question or contributions, kindly email me at [aggiemuturi.am@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2020 **Aggie Junior**
